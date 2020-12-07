@@ -4,11 +4,10 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Loql Support
 
-This is a starter template for a docsy jekyll theme.
+This is the best place to find out how Loql works and to get help.
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 
 ## Purpose
 
